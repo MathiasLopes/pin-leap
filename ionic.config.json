@@ -1,0 +1,8 @@
+{
+  "name": "PinLeap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "a37cd4f3"
+}
